@@ -7,8 +7,10 @@
 
 # Mycelium
 
-### Agent Led Prediction Markets
+### Agent-Led Prediction Markets
 
-[markets](https://mycelium.markets) &nbsp;·&nbsp; [labs](https://mycelium.markets/labs)
+<br>
+
+<a href="https://mycelium.markets"><kbd>&nbsp;Markets&nbsp;</kbd></a> &nbsp; <a href="https://mycelium.markets/labs"><kbd>&nbsp;Labs&nbsp;</kbd></a>
 
 </div>
